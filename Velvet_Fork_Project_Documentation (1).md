@@ -75,21 +75,21 @@ Amazon S3 is AWS's cloud storage service. It lets you store files online and, wi
 **Step 1 — Create a Bucket**
 Go to S3 → Create Bucket → name it (e.g. `velvet-fork-website`) → uncheck "Block all public access"
 
-📸 *Screenshot — Bucket Creation*
+<img width="1346" height="601" alt="Screenshot 2026-05-25 100335" src="https://github.com/user-attachments/assets/b4c004d7-4754-4b25-9b68-967fd230fbd5" />
 
 ---
 
 **Step 2 — Enable Static Website Hosting**
 Bucket → Properties → Static website hosting → Enable → set index document to `index.html`
 
-📸 *Screenshot — Static Hosting Enabled*
+<img width="1344" height="603" alt="Screenshot 2026-05-25 100401" src="https://github.com/user-attachments/assets/eef2edcf-60e1-49bd-9a78-285aae6d9df0" />
 
 ---
 
 **Step 3 — Upload Files**
 Click Upload → add all website files (HTML, CSS, JS, images)
 
-📸 *Screenshot — Files Uploaded in Bucket*
+<img width="1346" height="601" alt="Screenshot 2026-05-25 100335" src="https://github.com/user-attachments/assets/b4c004d7-4754-4b25-9b68-967fd230fbd5" />
 
 ---
 
@@ -111,14 +111,15 @@ Bucket → Permissions → Bucket Policy → paste this:
 }
 ```
 
-📸 *Screenshot — Bucket Policy*
+<img width="1336" height="600" alt="Screenshot 2026-05-25 100509" src="https://github.com/user-attachments/assets/6e131cc3-e3fa-46d0-856e-c63752ef14c9" />
 
 ---
 
 **Step 5 — Go Live**
 Bucket → Properties → copy the website endpoint URL → open in browser ✅
 
-📸 *Screenshot — Live Website in Browser*
+<img width="1366" height="768" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/a29e9d40-545e-4f36-9a76-d860510cffac" />
+
 
 ---
 
@@ -176,11 +177,8 @@ These are the real-world problems Velvet Fork was experiencing before this proje
 | 10 | Conclusion | Recommendation to adopt AWS, starting with S3 |
 
 > 📸 *Add screenshots and AWS diagrams to relevant slides*
-<img width="1298" height="438" alt="Screenshot 2026-05-21 203047" src="https://github.com/user-attachments/assets/8a86dac9-dbcd-430d-a785-4fbcbeb891c9" />
-<img width="1346" height="601" alt="Screenshot 2026-05-25 100335" src="https://github.com/user-attachments/assets/b4c004d7-4754-4b25-9b68-967fd230fbd5" />
-<img width="1344" height="603" alt="Screenshot 2026-05-25 100401" src="https://github.com/user-attachments/assets/eef2edcf-60e1-49bd-9a78-285aae6d9df0" />
-<img width="1338" height="596" alt="Screenshot 2026-05-25 100421" src="https://github.com/user-attachments/assets/2a57ade8-5195-4344-8d67-ae4ede9592d9" />
-<img width="1336" height="600" alt="Screenshot 2026-05-25 100509" src="https://github.com/user-attachments/assets/6e131cc3-e3fa-46d0-856e-c63752ef14c9" />
+
+
 
 
 
