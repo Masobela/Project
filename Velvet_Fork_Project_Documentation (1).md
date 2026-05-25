@@ -39,18 +39,22 @@ We built a simple, elegant website for Velvet Fork with the following pages:
 ---
 
 📸 *Screenshot — Home Page*
+<img width="1908" height="977" alt="ss hp" src="https://github.com/user-attachments/assets/178364b7-a160-4ae3-ae3b-1aa78e220ce1" />
 
 ---
 
 📸 *Screenshot — Booking Form*
+<img width="1787" height="961" alt="ss bk" src="https://github.com/user-attachments/assets/d9b787ab-d50c-4877-a41d-e217a20eb9d6" />
 
 ---
 
 📸 *Screenshot — Review Page*
+<img width="1814" height="946" alt="ss rv" src="https://github.com/user-attachments/assets/ae769897-7ec7-4c7e-8ed3-5038dd0690a8" />
 
 ---
 
 📸 *Screenshot — Gallery Page*
+<img width="1721" height="966" alt="ss gl" src="https://github.com/user-attachments/assets/7d64b26b-82ea-404d-9a3d-cd27b2b72b26" />
 
 ---
 
