@@ -13,12 +13,13 @@ Our solution: build a clean static website for Velvet Fork and host it on **Amaz
 
 ## 2. Team Members
 
-| Name | Role | What They Did | Date |
-|------|------|---------------|------|
-| `[Name]` | `[Role]` | `[What you did]` | `[DD/MM/YYYY]` |
-| `[Name]` | `[Role]` | `[What you did]` | `[DD/MM/YYYY]` |
-| `[Name]` | `[Role]` | `[What you did]` | `[DD/MM/YYYY]` |
-| `[Name]` | `[Role]` | `[What you did]` | `[DD/MM/YYYY]` |
+| Name | Role | What They Did |
+|------|------|---------------|
+| `Tumelo` | `Front-end development` | `HTML, CSS, JavaScript`| 
+| `Katlego` | `Content creation` | `writing text, organizing images`| 
+| `Vincent` | `AWS hosting & AWS deployment` | `Amazon S3 static web-hosting`| 
+| `Neo` | `Github management` | `repo setup,commits,pull requests, project summary`| 
+| `Minenhle` | `Presentation` | `PowerPoint,visuals,explaining AWS benefits`|
 
 ---
 
