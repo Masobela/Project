@@ -39,7 +39,9 @@ We built a simple, elegant website for Velvet Fork with the following pages:
 ---
 
 📸 *Screenshot — Home Page*
-<img width="1908" height="977" alt="ss hp" src="https://github.com/user-attachments/assets/178364b7-a160-4ae3-ae3b-1aa78e220ce1" />
+<img width="1888" height="953" alt="Screenshot 2026-05-25 113206" src="https://github.com/user-attachments/assets/9706e4a5-7ffe-4f91-a52c-cd6e8a2fd6bc" />
+
+
 
 ---
 
