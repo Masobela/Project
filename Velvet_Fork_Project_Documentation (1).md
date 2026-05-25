@@ -30,9 +30,9 @@ We built a simple, elegant website for Velvet Fork with the following pages:
 - **Home** — Restaurant intro and navigation
 - **Menu** — Fine cuisine dishes by category
 - **Bookings** — Form to reserve a table
-- **Orders** — Form to place an online order
-- **Confirmation** — Shown after a booking or order is submitted
-- **Sign-In** — Login page (designed for future Cognito integration)
+- **Reviews** — See reviews from our customers
+- **Gallery** — View our fine dishes
+- **Philosophy** — Understand more about the resturant
 
 **Design approach:** Dark navy and gold tones, serif headings, and high-quality food photography — keeping the luxury feel of the brand.
 
@@ -46,11 +46,11 @@ We built a simple, elegant website for Velvet Fork with the following pages:
 
 ---
 
-📸 *Screenshot — Order Page*
+📸 *Screenshot — Review Page*
 
 ---
 
-📸 *Screenshot — Confirmation Page*
+📸 *Screenshot — Gallery Page*
 
 ---
 
