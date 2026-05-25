@@ -176,7 +176,20 @@ These are the real-world problems Velvet Fork was experiencing before this proje
 | 10 | Conclusion | Recommendation to adopt AWS, starting with S3 |
 
 > 📸 *Add screenshots and AWS diagrams to relevant slides*
+<img width="1298" height="438" alt="Screenshot 2026-05-21 203047" src="https://github.com/user-attachments/assets/8a86dac9-dbcd-430d-a785-4fbcbeb891c9" />
+<img width="1346" height="601" alt="Screenshot 2026-05-25 100335" src="https://github.com/user-attachments/assets/b4c004d7-4754-4b25-9b68-967fd230fbd5" />
+<img width="1344" height="603" alt="Screenshot 2026-05-25 100401" src="https://github.com/user-attachments/assets/eef2edcf-60e1-49bd-9a78-285aae6d9df0" />
+<img width="1338" height="596" alt="Screenshot 2026-05-25 100421" src="https://github.com/user-attachments/assets/2a57ade8-5195-4344-8d67-ae4ede9592d9" />
+<img width="1336" height="600" alt="Screenshot 2026-05-25 100509" src="https://github.com/user-attachments/assets/6e131cc3-e3fa-46d0-856e-c63752ef14c9" />
+
+
+
+
+
+
 
 ---
 
 *Velvet Fork Project Team | Praesignis AWS re/Start Programme*
+
+
