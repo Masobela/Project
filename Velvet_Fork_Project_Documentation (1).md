@@ -176,7 +176,16 @@ These are the real-world problems Velvet Fork was experiencing before this proje
 | 9 | AWS Benefits | Available 24/7, scalable, low cost, no hardware |
 | 10 | Conclusion | Recommendation to adopt AWS, starting with S3 |
 
-> 📸 *Add screenshots and AWS diagrams to relevant slides*
+><img width="1189" height="476" alt="Screenshot 2026-05-21 133502" src="https://github.com/user-attachments/assets/30bed894-f367-4252-b58d-1a0efc931bf7" />
+><img width="1181" height="459" alt="Screenshot 2026-05-21 133635" src="https://github.com/user-attachments/assets/ea90b9ec-528b-4358-b9c5-b8719b979d85" />
+<img width="1171" height="467" alt="Screenshot 2026-05-21 133725" src="https://github.com/user-attachments/assets/1759da57-42c1-421c-97b0-0af473cb0ab7" />
+<img width="1176" height="472" alt="Screenshot 2026-05-21 140519" src="https://github.com/user-attachments/assets/dce828e4-9b00-4b5b-83f2-965e0af259c8" />
+<img width="1132" height="477" alt="Screenshot 2026-05-21 140554" src="https://github.com/user-attachments/assets/836c4a24-2f06-4efb-b9b3-1c0675cd577a" />
+
+
+
+
+
 
 
 
